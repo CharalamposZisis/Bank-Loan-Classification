@@ -1,6 +1,12 @@
 # Bank-Loan-Classification
 Thera Bank wants to build a model that will help them identify the potential customers who have a higher probability of purchasing the loan. In order to help them i will use ML algorithms in order to achieve this goal.
-
+ 
+The ML algorithms used on this project to perform classification are:
+- SVM
+- Decision Tree Classifier
+- Random Forest Classifier
+- Adaboost Classifier
+- GradientBoostingClassifier
 
 Dataset Overview:
 ID Customer ID
